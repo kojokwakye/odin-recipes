@@ -1,0 +1,32 @@
+body {
+  background-image: url(/images/Evening\ Night.png);
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
+
+h1 {
+  font-family: "Fruktur", cursive;
+}
+
+a:link,
+a:visited {
+  text-decoration: none;
+  color: rgb(23, 30, 36);
+}
+
+a:hover,
+a:active {
+  text-decoration: none;
+  color: rgb(59, 59, 59);
+}
+
+li {
+  list-style-type: none;
+  margin-bottom: 20px;
+}
