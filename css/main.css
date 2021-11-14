@@ -1,5 +1,14 @@
+* {
+  box-sizing:border-box;
+}
+
 body {
   background-image: url(../images/Evening\ Night.png);
+  background-repeat: no-repeat;
+}
+
+h1 {
+  font-family: "Fruktur", cursive;
 }
 
 .main {
@@ -8,11 +17,10 @@ body {
   align-items: center;
   height: 100vh;
   flex-direction: column;
+
 }
 
-h1 {
-  font-family: "Fruktur", cursive;
-}
+/* recipe links  */
 
 a:link,
 a:visited {
@@ -26,7 +34,14 @@ a:active {
   color: rgb(59, 59, 59);
 }
 
-li {
+.links {
+  width:200px;
+}
+
+ul {
   list-style-type: none;
-  margin-bottom: 20px;
+}
+
+li {
+  margin-bottom: 30px;
 }
