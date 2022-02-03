@@ -1,17 +1,18 @@
 # **the odin recipe website**
 
-**[This](https://kojokwakye.github.io/odin-recipes/)** is what i submitted to the [the odin project's](https://www.theodinproject.com/) recipe project.
+**[This](https://kojokwakye.github.io/odin-recipes/)** is what i submitted to the [the odin project's](https://www.theodinproject.com/) recipe assignment
 
 
 ## personal assesment
 ---
 
-- the **[main](https://kojokwakye.github.io/odin-recipes/)** page.
+- **[Homepage](https://kojokwakye.github.io/odin-recipes/)**
 
-    it contains  a list of three recipes and an header which were centered using flex-box.
+    page contains  a list of three recipes and an header
+    everthing is centered using flex-box
 
 - every one of the sub-pages have the same basic styling. 
-- there is a footer beneath every one of the sub-pages to direct you through the website
+- there is a footer beneath every one of the sub-pages that directs you through the assignment
 
 
 ### notes
