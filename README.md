@@ -1,6 +1,6 @@
 # **the odin recipe website**
 
-**[This](https://kojokwakye.github.io/odin-recipes/)** is what i submitted to the [the odin project's](https://www.theodinproject.com/)** recipe project.
+**[This](https://kojokwakye.github.io/odin-recipes/)** is what i submitted to the [the odin project's](https://www.theodinproject.com/) recipe project.
 
 
 ## personal assesment
