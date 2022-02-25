@@ -1,12 +1,12 @@
 # **the odin recipe website**
 
-**[This](https://kojokwakye.github.io/odin-recipes/)** is what i submitted to the [the odin project's](https://www.theodinproject.com/) recipe assignment
+**[This](https://kojokwakye.github.io/odin-recipes/)** is what i submitted to the [the odin project's](https://www.theodinproject.com/) recipe assignment.
 
 
 ## personal assesment
 ---
 
-- **[Homepage](https://kojokwakye.github.io/odin-recipes/)**
+- *[Homepage](https://kojokwakye.github.io/odin-recipes/)*
 
     page contains  a list of three recipes and an header
     everthing is centered using flex-box
