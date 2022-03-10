@@ -1,4 +1,4 @@
-# **the odin recipe website**
+# **the odin recipe assignment**
 
 **[This](https://kojokwakye.github.io/odin-recipes/)** is what i submitted to the [the odin project's](https://www.theodinproject.com/) recipe assignment.
 
