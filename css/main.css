@@ -1,5 +1,5 @@
 * {
-  box-sizing:border-box;
+  box-sizing: border-box;
 }
 
 body {
@@ -15,7 +15,7 @@ h1 {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  min-height: 100vh;
   flex-direction: column;
 
 }
@@ -35,7 +35,7 @@ a:active {
 }
 
 .links {
-  width:200px;
+  width: 200px;
 }
 
 ul {
