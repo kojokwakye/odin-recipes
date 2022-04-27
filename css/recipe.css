@@ -41,7 +41,14 @@ a:active {
   color: rgb(59, 59, 59);
 }
 
-footer > a {
+footer {
+  display: flex;
+  justify-content: center;
+
+}
+
+footer>a {
+
   padding: 10px;
 }
 
