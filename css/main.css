@@ -5,10 +5,14 @@
 body {
   background-image: url(../images/Evening\ Night.png);
   background-repeat: no-repeat;
+  min-height: 100%;
+  padding: 0;
+  margin: 0;
 }
 
 h1 {
   font-family: "Fruktur", cursive;
+  /* border-bottom: 2px solid rgb(17, 20, 17); */
 }
 
 .main {
@@ -17,7 +21,7 @@ h1 {
   align-items: center;
   min-height: 100vh;
   flex-direction: column;
-
+  border: 2px solid rgb(17, 20, 17);
 }
 
 /* recipe links  */
@@ -36,6 +40,8 @@ a:active {
 
 .links {
   width: 200px;
+  border-top: 2px solid rgb(17, 20, 17);
+  border-bottom: 2px solid rgb(17, 20, 17);
 }
 
 ul {
