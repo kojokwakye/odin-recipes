@@ -9,6 +9,7 @@ h2,
 h3 {
   font-family: "Fruktur", cursive;
   text-align: center;
+  text-decoration: underline;
 }
 
 img {
@@ -44,10 +45,9 @@ a:active {
 footer {
   display: flex;
   justify-content: center;
-
 }
 
-footer>a {
+footer > a {
   padding: 0 10px;
 }
 
