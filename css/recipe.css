@@ -3,6 +3,8 @@
 body {
   background-color: #76ab92;
   min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 h1,
@@ -46,6 +48,7 @@ a:active {
 footer {
   display: flex;
   justify-content: center;
+  margin-top: auto;
 }
 
 footer > a {
